@@ -1,0 +1,34 @@
+.MainBox{
+    width: 600px;
+    margin: auto;
+    padding: 25px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+.TitleBox{
+    display: flex;
+    flex-direction: row;
+}
+.TitleBox_Text{
+    margin-left:25px;
+}
+.Job-Text{
+    color:orange;
+}
+.Float{
+    display: flex;
+    justify-content: space-between;
+}
+.Section-Title{
+    border-bottom: 1px solid black;
+}
+.SNS{
+    display: flex;
+    justify-content: flex-end;
+}
+.SNS img{
+    margin:5px ;
+}
+footer{
+    text-align: center;
+}
