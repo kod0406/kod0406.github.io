@@ -8,6 +8,7 @@
 .TitleBox{
     display: flex;
     flex-direction: row;
+    margin-bottom: 30px;
 }
 .TitleBox_Text{
     margin-left:25px;
